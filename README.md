@@ -5,4 +5,4 @@ ejemplo diagrama: https://miro.com/app/board/uXjVOhHDEEo=/?share_link_id=2145051
 - subir la imagen a github y en el Readme.md explicar el flujo del diagrama.
 
 ##DIAGRAMA DE FLUJO
-![Diagrama de flujo](assets\aTomarCafé.jpg)
+![Diagrama de flujo](assets/aTomarCafe.jpg)
